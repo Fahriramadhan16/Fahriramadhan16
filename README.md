@@ -4,6 +4,23 @@
 </p>
 
 
+<img align="right" alt="coding-gif" width="450" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
+
+</br>
+<!-- about me -->
+ <h3 align="left">💫 About Me</h3>
+
+<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align="left">-->
+<h4> 
+  🌱 I am currently working on and developing my programming skills.</br>
+ 🔭 I worked on .Net Framework and experience in Model-View-Controller.</br>
+ 💬 Skills I acquire in programming languages such as Python, SQL.</br>
+ ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
+ ✨ I only like perfection.</h4> <div align="left"> 
+
+</br>
+
 
 </br></br>
 <!-- lang-->
